@@ -1,4 +1,4 @@
 # Zenék - Backend
 ```
-Ez egy Backend tesztelésre irányuló feladat, ezért már megvolt adva az alap index.js fájl és nincs hozzá további feladat
+Ez egy Backend tesztelésre irányuló feladat, ezért megvan adva a kész index.js fájl
 ```
